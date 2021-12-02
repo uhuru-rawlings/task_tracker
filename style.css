@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #24292F;
+    color: #ffffff;
+    text-align: center;
+    font-weight: normal;
+}
+.inputs{
+    display: flex;
+    padding: 10px;
+}
+.flexitem{
+    display: flex;
+    flex-wrap: wrap;
+}
+#cards, #cards1{
+    min-width: 300px;
+}
